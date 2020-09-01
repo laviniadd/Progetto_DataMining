@@ -1,4 +1,4 @@
-# Progetto_DataMining
+# Progetto Data and Document Mining
 Document and Data Mining project. Object detection on flowchart diagrams using Faster R-CNN.
 
 Faster R-CNN has to classify and retrieve elements that belongs to an image of a flowchart diagram.
